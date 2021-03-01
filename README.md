@@ -191,7 +191,7 @@ is illustrated in the Figure 6 (Z. Li et al., 2019)
 The challenge to the approach is the head in the image can be of different shapes and
 sizes. To tackle this problem the proposed CNN model will have filters of various sizes.
 
-![CNN Architecture](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/cnn.jpg)
+![CNN Architecture](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/cnn_model_1.jpg)
 
 ```
 Figure 6. CNN Architecture (Z. Li et al., 2019)
