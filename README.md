@@ -1,28 +1,8 @@
 # Crowd Counting using Convolution Neural Network
 
-### by
-
 ### Archit Jain
 
-### A Project Report Submitted
-
-### in
-
-### Fulfillment of the
-
-### Requirements for the Degree of
-
 ### Master of Science
-
-### School of Information
-
-### B. Thomas Golisano College of Computing and Information Sciences
-
-### Rochester Institute of Technology
-
-### Rochester, New York
-
-### January 2021
 
 
 ## Abstract
