@@ -62,6 +62,8 @@ can be packed in a single picture, as shown in Figure 1. Machines can be automat
 this task more accurately and precisely.
 
 ```
+![Images illustrating crowd](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/crowdCounting.jpg)
+
 Figure 1. Images illustrating crowd
 ```
 Crowd counting has become quite popular among researchers in recent years. The pro-
