@@ -4,6 +4,7 @@
 
 ### Master of Science
 
+![crowd counting](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/crowdCounting.jpg)
 
 ## Abstract
 
@@ -61,7 +62,7 @@ Counting people in a single frame manually can repetitive, and complex job as ma
 can be packed in a single picture, as shown in Figure 1. Machines can be automated to do
 this task more accurately and precisely.
 
-![Images illustrating crowd](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/crowdCounting.jpg)
+![Images illustrating crowd](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/crowd.jpg)
 
 ```
 Figure 1. Images illustrating crowd
@@ -90,6 +91,7 @@ image. If the filter matches exactly as the object it needs to detect in the ima
 product becomes 1. The dot product’s value becomes closer to 1 as the object detected is
 closer to the feature exacter in the filter.
 
+![Basic CNN model](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/basic cnn.jpg)
 
 ```
 Figure 2. Basic CNN model
@@ -101,6 +103,7 @@ in the matrix can be replaced by a single value of the maximum number (L. Zhang 
 halved in size. The pooling layer of type max is the best suited for the problem of crowd
 counting.
 
+![Pooling Layer working](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/pooling.png)
 ```
 Figure 3. Pooling Layer working
 ```
@@ -115,10 +118,12 @@ matrix to zero as per Figure 5 (Liu, 2020). This layer also reduces the computat
 by removing unnecessary data from the network (L. Zhang et al., 2018). Also, it easier to
 process the convolutional layer by reducing the network’s complexity.
 
-
+![Stride example](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/stride.png)
 ```
 Figure 4. Stride example
 ```
+![Graphical representation of ReLU layer](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/relu.png)
+
 ```
 Figure 5. Graphical representation of ReLU layer
 ```
@@ -186,6 +191,7 @@ is illustrated in the Figure 6 (Z. Li et al., 2019)
 The challenge to the approach is the head in the image can be of different shapes and
 sizes. To tackle this problem the proposed CNN model will have filters of various sizes.
 
+![CNN Architecture](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/cnn.jpg)
 
 ```
 Figure 6. CNN Architecture (Z. Li et al., 2019)
@@ -212,10 +218,10 @@ is calculated and is analyzed amongst the best model for crowd counting.
 
 ## 5 Timeline
 
-The timeline is designed based on the software development life cycle keeping testing and
+The comeplete development plan was designed based on the software development life cycle keeping testing and
 updating the model in mind.
 
-
+![Project Timeline](https://github.com/Archit-Jain/Crowd-Counting-CNN/blob/main/sdlc.png)
 ```
 Figure 7. Project Timeline
 ```
